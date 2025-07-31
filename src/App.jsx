@@ -1,4 +1,4 @@
-import ItemAdd from "./components/Itemadd";
+import ItemAdd from "./components/ItemAdd";
 
 const App = () => {
   return (
